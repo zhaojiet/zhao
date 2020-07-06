@@ -25,7 +25,7 @@ if (f==f1):
     print('true')
 else:
     print('false')
-print(f()*2)    #有括号才是运行的函数
+print(f()*2)    
 
 
 for n in range(1,4):
